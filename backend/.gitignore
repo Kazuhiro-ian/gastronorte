@@ -1,0 +1,32 @@
+# =========================
+# REACT / FRONTEND
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# SPRING BOOT / BACKEND
+# =========================
+backend/target/
+backend/build/
+backend/.mvn/
+backend/!mvnw
+backend/!mvnw.cmd
+*.class
+*.log
+*.jar
+*.war
+
+# =========================
+# CONFIGURAÇÕES DE IDE E SO
+# =========================
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
